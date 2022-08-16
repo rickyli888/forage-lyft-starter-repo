@@ -1,7 +1,4 @@
-from abc import ABC
-
 from engine.engine import Engine
-from car import Car
 
 
 class SternmanEngine(Engine):

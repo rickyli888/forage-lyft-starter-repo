@@ -1,4 +1,3 @@
-from datetime import datetime
 from battery.battery import Battery
 
 

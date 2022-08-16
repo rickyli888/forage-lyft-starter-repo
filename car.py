@@ -1,5 +1,3 @@
-from abc import ABC, abstractmethod
-
 from battery.battery import Battery
 from engine.engine import Engine
 from serviceable import Serviceable
